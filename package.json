@@ -2,7 +2,7 @@
   "name": "neo-dos",
   "displayName": "Neo DOS",
   "description": "Dark terminal inspired color theme for VSCode.",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "publisher": "AH-oss",
   "license": "MIT",
   "icon": "icon.png",
