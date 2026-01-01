@@ -1,0 +1,51 @@
+{
+  "name": "neo-dos",
+  "displayName": "Neo DOS",
+  "description": "Dark terminal inspired color theme for VSCode.",
+  "version": "1.0.0",
+  "publisher": "AH-oss",
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+
+  "categories": [
+    "Themes"
+  ],
+
+  "keywords": [
+    "neo",
+    "dos",
+    "modern",
+    "dark",
+    "theme",
+    "color theme",
+    "terminal theme",
+    "ansi",
+    "developer theme",
+    "dark theme"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo DOS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neo-dos-color-theme.json"
+      }
+    ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmatilai/neo-dos-theme"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jmatilai/neo-dos-theme/issues"
+  },
+
+  "homepage": "https://github.com/jmatilai/neo-dos-theme#readme"
+}
